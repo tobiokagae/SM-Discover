@@ -15,6 +15,98 @@
         android:orientation="vertical">
         <include
             layout="@layout/toolbar"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginHorizontal="30dp"
+            android:layout_marginTop="30dp"
+            android:textSize="20sp"
+            android:textColor="#BC294A"
+            android:text="@string/companydesc"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30dp"
+            android:layout_marginVertical="10dp"
+
+            android:textColor="#BC294A"
+            android:text="@string/labels"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30dp"
+            android:text="Labels"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="#BC294A"
+            android:layout_marginVertical="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="#BC294A"
+            android:text="LIC, short for Labels In Company, represents the internal labels within SM Entertainment."/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginHorizontal="30dp">
+
+            <ImageView
+                android:layout_marginHorizontal="14dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/smclassic" />
+
+            <ImageView
+                android:layout_marginHorizontal="14dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/screamrecord" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30dp"
+            android:text="Major Affiliates"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="#BC294A"
+            android:layout_marginVertical="10dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginHorizontal="30dp">
+            <ImageView
+                android:layout_marginHorizontal="10dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/keyeast" />
+
+            <ImageView
+                android:layout_marginHorizontal="10dp"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/streammedia" />
+
+            <ImageView
+                android:layout_marginHorizontal="10dp"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_gravity="center"
+                android:src="@drawable/dreammaker" />
+        </LinearLayout>
     </LinearLayout>
 
     <RelativeLayout

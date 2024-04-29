@@ -35,7 +35,6 @@
                 android:textColor="#BC294A"
                 android:text="@string/home"
                 android:textSize="20sp"
-                android:drawablePadding="8dp"
                 android:paddingVertical="15dp"/>
 
             <View

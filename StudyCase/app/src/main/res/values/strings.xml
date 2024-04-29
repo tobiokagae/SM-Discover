@@ -9,4 +9,27 @@
     <string name="riize">RIIZE</string>
     <string name="aespa">AESPA</string>
     <string name="riize_impossible">RIIZE - IMPOSSIBLE</string>
+    <string name="giselle">Giselle</string>
+    <string name="karina">Karina</string>
+    <string name="ningning">Ningning</string>
+    <string name="winter">Winter</string>
+    <string name="chenle">Chenle</string>
+    <string name="haechan">Haechan</string>
+    <string name="jaemin">Jaemin</string>
+    <string name="jeno">Jeno</string>
+    <string name="jisung">Jisung</string>
+    <string name="mark">Mark</string>
+    <string name="renjun">Renjun</string>
+    <string name="anton">Anton</string>
+    <string name="eunseok">Eunseok</string>
+    <string name="seunghan">Seunghan</string>
+    <string name="shotaro">Shotaro</string>
+    <string name="sohee">Sohee</string>
+    <string name="sungchan">Sungchan</string>
+    <string name="wonbin">Wonbin</string>
+    <string name="aespadesc">aespa (에스파) is a South Korean girl group formed by SM Entertainment. The group consists of four members: Karina, Giselle, Winter and Ningning. They made their debut on November 17, 2020 with the single \'Black Mamba\'.</string>
+    <string name="companydesc">SM Entertainment is poised to become a global entertainment powerhouse, extending beyond Asia.</string>
+    <string name="labels">Established in 1995, SM Entertainment has been a trailblazer in the world of entertainment, reshaping the very essence of K-POP and revolutionizing the industry as a whole. We take immense pride in pioneering the comprehensive artist development system, covering casting, training, production, and management, setting the stage for what K-POP is today.</string>
+    <string name="dreamdesc">NCT Dream (Hangul: 엔시티 드림; RR: Ensiti Deurim) is the third sub-unit of the South Korean boy band NCT formed by SM Entertainment.This unit debuted on August 25, 2016 with the song \'Chewing Gum\' and seven members: Mark, Renjun, Jeno, Haechan, Jaemin, Chenle and Jisung.</string>
+    <string name="riizedesc">RIIZE (Stylized in capital letters; Korean: 라이즈) is a South Korean boy group formed by SM Entertainment. They debuted on September 4, 2023, with the single album Get a Guitar and the group members consisted of Shotaro, Eunseok, Sungchan, Wonbin, Seunghan, Sohee, and Anton.</string>
 </resources>
